@@ -1,0 +1,10 @@
+{
+    "application_version": "3.3.3",
+    "minimum_rxdb_version": "2",
+    "minimum_transdb_version": "2",
+    "release_notes_url": "releaseNoteURL",
+    "build_number": "543",
+    "file_url": "bmccommonlib4/etc/config/network",
+    "rxdb_version": [],
+    "transdb_version": []
+}

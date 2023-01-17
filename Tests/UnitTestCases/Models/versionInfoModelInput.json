@@ -1,0 +1,10 @@
+{
+    "Version": "3",
+    "Revision":"3",
+    "Release":"3",
+    "MinRxDbVersion": "2",
+    "MinTransDbVersion": "2",
+    "ReleaseNotesUrl": "releaseNoteURL",
+    "BuildNumber": "543",
+    "FileName": "bmccommonlib4"
+}
